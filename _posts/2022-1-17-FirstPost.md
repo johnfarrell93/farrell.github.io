@@ -1,11 +1,8 @@
 ---
 layout: post
-title: Markdown Style Guide
+title: Top 10 Cyber defenses criminals hate!
 ---
 
-This is a demo of all styled elements in Jekyll Now.
+Hello World! This is my very first post . . . 
 
-[View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
-
-This is a paragraph, it's surrounded by whitespace. Next up are some headers, they're heavily influenced by GitHub's markdown style.
-
+I will be using this blog to ramble about cyber topics of interest or things I have found beneficial on my cyber secuirty journey thus far.
